@@ -23,7 +23,7 @@ flags_general = [
   ,'-Werror'
   ,'-Wno-attributes'
   ,'-std=c++17'
-  ,'-I/usr/src/linux-hwe-5.8-headers-5.8.0-45/include'
+  ,'-I/usr/src/linux-hwe-5.8-headers-5.8.0-50/include'
 ]
 
 SOURCE_EXTENSIONS = [ '.cpp', '.cxx', '.cc', '.c', '.ino', '.m', '.mm' ]
